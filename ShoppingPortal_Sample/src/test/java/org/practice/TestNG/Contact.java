@@ -6,7 +6,6 @@ import org.testng.annotations.Test;
 import org.yantra.genericUtility.BaseClass;
 import org.yantra.genericUtility.IpathConstants;
 public class Contact extends BaseClass{
-	
 	@Test
 	    public void deleteorganization()
 	    {
